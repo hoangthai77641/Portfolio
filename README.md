@@ -23,15 +23,6 @@ A personal project demonstrating my JavaScript development skills.
 
 ---
 
-## 🔗 Quick Links
-
-| 📌 Resource | 🔗 Link |
-|-------------|---------|
-| 🏠 GitHub Profile | [hoangthai77641](https://github.com/hoangthai77641) |
-| 📂 All Repositories | [View All](https://github.com/hoangthai77641?tab=repositories) |
-
----
-
 ## 🏢 Organizations I Contribute To
 
 I'm proud to be part of these amazing organizations:
