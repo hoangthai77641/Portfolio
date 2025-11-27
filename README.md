@@ -46,10 +46,4 @@ I'm always excited to collaborate on interesting projects or just have a chat ab
 
 ---
 
-## 📊 GitHub Stats
-
-![hoangthai77641's GitHub stats](https://github-readme-stats.vercel.app/api? username=hoangthai77641&show_icons=true&theme=radical)
-
----
-
 *Thanks for visiting! Happy coding!  💻🎉*
