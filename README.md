@@ -43,6 +43,18 @@ My journey learning GitHub fundamentals and version control.
 
 ---
 
+## 🏢 Organizations I Contribute To
+
+I'm proud to be part of these amazing organizations:
+
+### 🤖 [AI Scientist Ecosystem](https://github.com/ai-scientist-ecosystem)
+Collaborating on innovative AI and machine learning projects with a passionate community of researchers and developers.
+
+### 💎 [HannieJewelry](https://github.com/HannieJewelry)
+Contributing to projects for a beautiful jewelry business, combining creativity with technology.
+
+---
+
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on interesting projects or just have a chat about tech! Feel free to:
