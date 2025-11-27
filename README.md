@@ -16,20 +16,10 @@ Feel free to explore, star ⭐ your favorites, and connect with me!
 
 Here are some of the projects I've been working on:
 
-### 💼 [My Portfolio](https://github.com/hoangthai77641/my-portfolio)
-A personal portfolio website showcasing my work and skills.
-- 🛠️ Built with: **TypeScript**
-- 📅 Last updated: October 2025
-
 ### 🎨 [ThoHCM Personal Project](https://github.com/hoangthai77641/ThoHCM-Personal-Project)
 A personal project demonstrating my JavaScript development skills.
 - 🛠️ Built with: **JavaScript**
 - 📅 Last updated: November 2025
-
-### 📚 [Skills Introduction to GitHub](https://github.com/hoangthai77641/skills-introduction-to-github)
-My journey learning GitHub fundamentals and version control.
-- 🎯 Purpose: Learning & Practice
-- 📅 Created: October 2024
 
 ---
 
@@ -38,7 +28,6 @@ My journey learning GitHub fundamentals and version control.
 | 📌 Resource | 🔗 Link |
 |-------------|---------|
 | 🏠 GitHub Profile | [hoangthai77641](https://github.com/hoangthai77641) |
-| 💼 Portfolio Website | [my-portfolio](https://github.com/hoangthai77641/my-portfolio) |
 | 📂 All Repositories | [View All](https://github.com/hoangthai77641?tab=repositories) |
 
 ---
