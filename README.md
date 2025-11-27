@@ -1,14 +1,14 @@
 # 👋 Hello, I'm Hoang Thai!
 
-Welcome to my GitHub Portfolio! I'm thrilled you stopped by! ✨
+Welcome to my GitHub Portfolio!  I'm thrilled you stopped by! ✨
 
 ---
 
 ## 🌟 About Me
 
-I'm a passionate developer who loves building creative projects and learning new technologies. This portfolio serves as a central hub for all my GitHub work — from personal projects to collaborative contributions.
+I'm a passionate developer who loves building creative projects and learning new technologies. This portfolio serves as a central hub for all my GitHub work — from personal projects to collaborative endeavors. 
 
-Feel free to explore, star ⭐ your favorites, and connect with me!
+Feel free to explore, star ⭐ your favorites, and connect with me! 
 
 ---
 
@@ -28,14 +28,14 @@ A personal project demonstrating my JavaScript development skills.
 I'm proud to be part of these amazing organizations:
 
 ### 🤖 [AI Scientist Ecosystem](https://github.com/ai-scientist-ecosystem)
-Collaborating on innovative AI and machine learning projects with a passionate community of researchers and developers.
+This is my personal vision inspired by scientific and technological perspectives across all fields. I believe that the development of human civilization must go hand in hand with ethics. I'm deeply inspired by Elon Musk's goal of exploring and sustaining human life in the universe, and I have a strong desire to contribute and collaborate with him in this mission. This ecosystem aims to advance AI research and innovation while maintaining ethical standards for the betterment of humanity. 
 
 ### 💎 [HannieJewelry](https://github.com/HannieJewelry)
-Contributing to projects for a beautiful jewelry business, combining creativity with technology.
+HannieJewelry is a graduation group project that represents our team's collaborative efforts.  After graduation, our team is passionate about continuing to develop this project, drawing inspiration from successful e-commerce platforms like Haravan. We aim to create a comprehensive solution for the jewelry business, combining creativity with cutting-edge technology.
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect! 
 
 I'm always excited to collaborate on interesting projects or just have a chat about tech! Feel free to:
 
@@ -48,8 +48,8 @@ I'm always excited to collaborate on interesting projects or just have a chat ab
 
 ## 📊 GitHub Stats
 
-![hoangthai77641's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangthai77641&show_icons=true&theme=radical)
+![hoangthai77641's GitHub stats](https://github-readme-stats.vercel.app/api? username=hoangthai77641&show_icons=true&theme=radical)
 
 ---
 
-*Thanks for visiting! Happy coding! 💻🎉*
+*Thanks for visiting! Happy coding!  💻🎉*
