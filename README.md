@@ -6,7 +6,7 @@ Welcome to my GitHub Portfolio!  I'm thrilled you stopped by! ✨
 
 ## 🌟 About Me
 
-I'm a passionate developer who loves building creative projects and learning new technologies. This portfolio serves as a central hub for all my GitHub work — from personal projects to collaborative endeavors. 
+I'm a passionate developer who loves building creative projects and learning new technologies. This portfolio serves as a central hub for all my GitHub work — from personal projects to collaborations and contributions to various organizations.
 
 Feel free to explore, star ⭐ your favorites, and connect with me! 
 
@@ -28,10 +28,13 @@ A personal project demonstrating my JavaScript development skills.
 I'm proud to be part of these amazing organizations:
 
 ### 🤖 [AI Scientist Ecosystem](https://github.com/ai-scientist-ecosystem)
-This is my personal vision inspired by scientific and technological perspectives across all fields. I believe that the development of human civilization must go hand in hand with ethics. I'm deeply inspired by Elon Musk's goal of exploring and sustaining human life in the universe, and I have a strong desire to contribute and collaborate with him in this mission. This ecosystem aims to advance AI research and innovation while maintaining ethical standards for the betterment of humanity. 
+This is my personal vision inspired by scientific and technological perspectives across all fields. I believe that the development of human civilization must go hand in hand with ethics. I'm deeply committed to contributing to projects that advance AI research while maintaining ethical standards and promoting responsible innovation.
 
 ### 💎 [HannieJewelry](https://github.com/HannieJewelry)
-HannieJewelry is a graduation group project that represents our team's collaborative efforts.  After graduation, our team is passionate about continuing to develop this project, drawing inspiration from successful e-commerce platforms like Haravan. We aim to create a comprehensive solution for the jewelry business, combining creativity with cutting-edge technology.
+HannieJewelry is a graduation group project that represents our team's collaborative efforts.  After graduation, our team is passionate about continuing to develop this project, drawing inspiration from real-world business applications and modern web development practices.
+
+### 🏥 [Medical Platforms](https://github.com/medical-platforms)
+Contributing to healthcare technology solutions and medical platform development. Passionate about leveraging technology to improve healthcare accessibility and patient outcomes through innovative digital solutions.
 
 ---
 
