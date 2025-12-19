@@ -16,7 +16,7 @@ Feel free to explore, star ⭐ your favorites, and connect with me!
 
 Here are some of the projects I've been working on:
 
-### 🎨 [ThoHCM Personal Project](https://github.com/hoangthai77641/ThoHCM-Personal-Project)
+### 🎨 [ThoHCM](https://github.com/hoangthai77641/ThoHCM)
 A personal project demonstrating my JavaScript development skills.
 - 🛠️ Built with: **JavaScript**
 - 📅 Last updated: November 2025
